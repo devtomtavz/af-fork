@@ -42,10 +42,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [AboutDFIR – The Definitive Compendium Project](https://aboutdfir.com) - Collection of forensic resources for learning and research. Offers lists of certifications, books, blogs, challenges and more
 - [DFIR.Training](https://www.dfir.training/) - Database of forensic resources focused on events, tools and more
-- :star: [ForensicArtifacts.com Artifact Repository](https://github.com/ForensicArtifacts/artifacts) - Machine-readable knowledge base of forensic artifacts
-
-## Tools
-
 - [Forensics tools on Wikipedia](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
 
 ### Distributions
@@ -56,16 +52,15 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Frameworks
 
-- [dff](https://github.com/arxsys/dff) - Forensic framework
-- [dexter](https://github.com/coinbase/dexter) - Dexter is a forensics acquisition framework designed to be extensible and secure
-- [IntelMQ](https://github.com/certtools/intelmq) - IntelMQ collects and processes security feeds
-- [Kuiper](https://github.com/DFIRKuiper/Kuiper) - Digital Investigation Platform
-- [Laika BOSS](https://github.com/lmco/laikaboss) - Laika is an object scanner and intrusion detection system
-- [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerForensics is a framework for live disk forensic analysis
-- :star: [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) - Tools for low level forensic analysis
-- [turbinia](https://github.com/google/turbinia) - Turbinia is an open-source framework for deploying, managing, and running forensic workloads on cloud platforms
-- [IPED - Indexador e Processador de Evidências Digitais](https://github.com/sepinf-inc/IPED) - Brazilian Federal Police Tool for Forensic Investigations
-- [Wombat Forensics](https://github.com/pjrinaldi/wombatforensics) - Forensic gui tool
+- [dff](https://github.com/arxsys/dff) - Forensic framework **(Hasn't been touched in 5+ years)**
+- [dexter](https://github.com/coinbase/dexter) - Dexter is a forensics acquisition framework designed to be extensible and secure **(Hasn't been touched in 2+ years)**
+- [IntelMQ](https://github.com/certtools/intelmq) - IntelMQ collects and processes security feeds **(Still in active development)**
+- [Kuiper](https://github.com/DFIRKuiper/Kuiper) - Digital Investigation Platform **(Still in active development)**
+- [Laika BOSS](https://github.com/lmco/laikaboss) - Laika is an object scanner and intrusion detection system **(Hasn't been touched in 2+ years)**
+- [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerForensics is a framework for live disk forensic analysis **(Hasn't been touched in 2+ years)**
+- :star: [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) - Tools for low level forensic analysis **(Still in active development)**
+- [turbinia](https://github.com/google/turbinia) - Turbinia is an open-source framework for deploying, managing, and running forensic workloads on cloud platforms **(Still in active development)**
+- [IPED - Indexador e Processador de Evidências Digitais](https://github.com/sepinf-inc/IPED) - Brazilian Federal Police Tool for Forensic Investigations **(Still in active development)**
 
 ### Live Forensics
 
@@ -197,16 +192,10 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ## Resources
 
 ### Books
-
-*more at [Recommended Readings](http://dfir.org/?q=node/8) by Andrew Case*
-
-- [Network Forensics: Tracking Hackers through Cyberspace](https://www.pearson.com/us/higher-education/program/Davidoff-Network-Forensics-Tracking-Hackers-through-Cyberspace/PGM322390.html) - Learn to recognize hackers’ tracks and uncover network-based evidence
-- [The Art of Memory Forensics](https://www.memoryanalysis.net/amf) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
-- [The Practice of Network Security Monitoring](https://nostarch.com/nsm) - Understanding Incident Detection and Response
+All the books here are premium/paid for and thats not my goal for this list so they've been removed.
 
 ### File System Corpora
 
-- [Digital Forensic Challenge Images](https://www.ashemery.com/dfir.html) - Two DFIR challenges with images
 - [Digital Forensics Tool Testing Images](http://dftt.sourceforge.net)
 - [FAU Open Research Challenge Digital Forensics](https://openresearchchallenge.org/digitalForensics/appliedforensiccomputinggroup)
 - [The CFReDS Project](https://www.cfreds.nist.gov)
@@ -214,13 +203,11 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 ### Twitter
 
+Removed no longer active accounts.
 - [@4n6ist](https://twitter.com/4n6ist)
-- [@aheadless](https://twitter.com/aheadless)
-- [@AppleExaminer](https://twitter.com/AppleExaminer) - Apple OS X & iOS Digital Forensics
 - [@carrier4n6](https://twitter.com/carrier4n6) - Brian Carrier, author of Autopsy and the Sleuth Kit
 - [@CindyMurph](https://twitter.com/CindyMurph) - Detective & Digital Forensic Examiner
 - [@forensikblog](https://twitter.com/forensikblog) - Computer forensic geek
-- [@HECFBlog](https://twitter.com/HECFBlog) - SANS Certified Instructor
 - [@Hexacorn](https://twitter.com/Hexacorn) - DFIR+Malware
 - [@hiddenillusion](https://twitter.com/hiddenillusion)
 - [@iamevltwin](https://twitter.com/iamevltwin) - Mac Nerd, Forensic Analyst, Author & Instructor of SANS FOR518
@@ -234,16 +221,15 @@ Vendors:
 
 - [@Belkasoft](https://twitter.com/Belkasoft)
 - [@blackbagtech](https://twitter.com/blackbagtech)
+- [@blackbagtech-rebrand](https://twitter.com/CellebriteES)
 
 
-### Blogs
-
-- [thisweekin4n6.wordpress.com](thisweekin4n6.wordpress.com) - Weekly updates for forensics
+### Reddit
+- [/r/computerforensics/](https://www.reddit.com/r/computerforensics/) - Subreddit for computer forensics
+- [/r/LearnDigitalForensics](https://www.reddit.com/r/LearnDigitalForensics/) - Subreddit for learning Digital Forensics
 
 ### Other
 
-- [/r/computerforensics/](https://www.reddit.com/r/computerforensics/) - Subreddit for computer forensics
-- [/r/LearnDigitalForensics](https://www.reddit.com/r/LearnDigitalForensics/) - Subreddit for learning Digital Forensics
 - [ForensicPosters](https://github.com/Invoke-IR/ForensicPosters) - Posters of file system structures
 - [SANS Posters](https://www.sans.org/security-resources/posters/) - Free posters provided by SANS
 
